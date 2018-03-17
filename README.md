@@ -1,6 +1,6 @@
 # bits and atoms club
 
-An ad-hoc electronics faculty for Falmouth University
+An ad-hoc electronics faculty for Falmouth University. This repo should augment our weekly sessions, feel free to edit the wiki with things you find, or use the issues to ask questions (you may need to register with github for this).
 
 Departments:
 
