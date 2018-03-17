@@ -6,6 +6,6 @@ Departments:
 
 * [Resourcing](https://github.com/fo-am/bits-and-atoms-club/wiki/Resourcing) (where to get hold of components)
 * [Artistic references](https://github.com/fo-am/bits-and-atoms-club/wiki/Artistic-references)
-* [Arduino](https://github.com/fo-am/bits-and-atoms-club/wiki/Arduino)
-* [Raspberry Pi](https://github.com/fo-am/bits-and-atoms-club/wiki/Raspberry-Pi)
-* [Analogue electronics](https://github.com/fo-am/bits-and-atoms-club/wiki/Analogue-electronics)
+* [Arduino](https://github.com/fo-am/bits-and-atoms-club/wiki/Arduino) (coming soon)
+* [Raspberry Pi](https://github.com/fo-am/bits-and-atoms-club/wiki/Raspberry-Pi) (handful of lilypads and loads 
+* [Analogue electronics](https://github.com/fo-am/bits-and-atoms-club/wiki/Analogue-electronics) (handful of lilypads and loads 
