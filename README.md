@@ -9,3 +9,5 @@ Departments:
 * [Arduino](https://github.com/fo-am/bits-and-atoms-club/wiki/Arduino) (coming soon)
 * [Raspberry Pi](https://github.com/fo-am/bits-and-atoms-club/wiki/Raspberry-Pi) (coming soon)
 * [Analogue electronics](https://github.com/fo-am/bits-and-atoms-club/wiki/Analogue-electronics) (coming soon)
+
+![](https://github.com/fo-am/bits-and-atoms-club/blob/master/circuit_diagram.png)
