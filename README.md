@@ -11,3 +11,5 @@ Departments:
 * [Analogue electronics](https://github.com/fo-am/bits-and-atoms-club/wiki/Analogue-electronics) (coming soon)
 
 ![](https://github.com/fo-am/bits-and-atoms-club/blob/master/circuit_diagram.png)
+
+[https://xkcd.com/730/](https://xkcd.com/730/)
