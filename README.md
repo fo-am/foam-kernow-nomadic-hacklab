@@ -6,6 +6,8 @@ Departments:
 
 * [Resourcing](https://github.com/fo-am/bits-and-atoms-club/wiki/Resourcing) - where to get hold of components.
 * [Artistic references](https://github.com/fo-am/bits-and-atoms-club/wiki/Artistic-references) - inspiration.
+* [Sensors](https://github.com/fo-am/bits-and-atoms-club/wiki/Sensors) - that we have used/discussed for projects.
+* [Lighting ideas](https://github.com/fo-am/bits-and-atoms-club/wiki/Lighting-ideas) - some options for bright lighting beyond LEDs.
 * [Arduino](https://github.com/fo-am/bits-and-atoms-club/wiki/Arduino) (coming soon)
 * [Raspberry Pi](https://github.com/fo-am/bits-and-atoms-club/wiki/Raspberry-Pi) (coming soon)
 * [Analogue electronics](https://github.com/fo-am/bits-and-atoms-club/wiki/Analogue-electronics)
