@@ -1,15 +1,15 @@
-#N canvas 0 92 1351 686 10;
+#N canvas 0 97 1351 686 10;
 #X obj 68 15 adc~;
 #X obj 68 279 dac~;
 #X obj 70 194 *~;
 #X obj 217 138 osc~ 200;
 #X obj 217 -23 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 2100 1;
+-1 -1 600 1;
 #X obj 217 114 * 100;
 #X obj 69 234 *~;
 #X obj 321 137 / 127;
-#X obj 321 -5 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
--1 -1 4200 1;
+#X obj 321 1 vsl 15 128 0 127 0 0 empty empty empty 0 -9 0 10 -262144
+-1 -1 3200 1;
 #X text 182 -59 Ring modulation effect;
 #X text 287 -29 Output volume;
 #X obj 67 52 delwrite~ echo 10000;
