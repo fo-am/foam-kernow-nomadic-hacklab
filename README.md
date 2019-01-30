@@ -6,4 +6,10 @@ Basic rules:
 - Do not fiddle with anything connected to mains power.
 - That's all!
 
+Some starting points:
+- [Analogue electronics](https://github.com/fo-am/foam-kernow-nomadic-hacklab/wiki/Analogue-electronics)
+- [Artistic references](https://github.com/fo-am/foam-kernow-nomadic-hacklab/wiki/Artistic-references)
+- [Resourcing](https://github.com/fo-am/foam-kernow-nomadic-hacklab/wiki/Resourcing) (where to get stuff)
+- [Coding tips](https://github.com/fo-am/foam-kernow-nomadic-hacklab/wiki/Coding-tips)
+
 ![](https://github.com/fo-am/bits-and-atoms-club/blob/master/bob-pease_my-favorite-programming-language-is-solder.jpg)
