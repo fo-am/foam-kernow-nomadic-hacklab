@@ -10,6 +10,7 @@ Departments:
 * [Sensors](https://github.com/fo-am/bits-and-atoms-club/wiki/Sensors) - that we have used/discussed for projects.
 * [Lighting ideas](https://github.com/fo-am/bits-and-atoms-club/wiki/Lighting-ideas) - some options for bright lighting beyond LEDs.
 * [Analogue electronics](https://github.com/fo-am/bits-and-atoms-club/wiki/Analogue-electronics) - build your own synths and robots without computers or programming.
+* [Pure Data](https://github.com/fo-am/bits-and-atoms-club/wiki/Pure-Data) - an open source visual programming system for plugging together sound applications (mostly).
 
 ![](https://github.com/fo-am/bits-and-atoms-club/blob/master/circuit_diagram.png)
 
