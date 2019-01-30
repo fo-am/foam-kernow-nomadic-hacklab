@@ -4,7 +4,7 @@ An ad-hoc electronics faculty currently in temporary residence at Falmouth Unive
 
 Basic rules:
 - Do not fiddle with anything connected to mains power.
-- That's all!
+- Try to recycle e-waste where you can rather than buying new things (as long as it's battery powered, see above).
 
 Some starting points:
 - [Analogue electronics](https://github.com/fo-am/foam-kernow-nomadic-hacklab/wiki/Analogue-electronics)
