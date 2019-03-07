@@ -1,17 +1,15 @@
-# bits and atoms club
+# FoAM Kernow Nomadic Electronics Faculty
 
-An ad-hoc electronics faculty for Falmouth University. This repo should augment our weekly sessions, feel free to edit the wiki with things you find, or use the issues to ask questions (you may need to register with github for this).
+An ad-hoc electronics faculty currently in temporary residence at Falmouth University. This repo should augment our weekly sessions, and contains source code and circuits based on things we have tried, and a [wiki](https://github.com/fo-am/bits-and-atoms-club/wiki/Home) - feel free to edit this with things you find, or use the [issues](https://github.com/fo-am/foam-kernow-nomadic-hacklab/issues) to ask questions (you may need to register with github for this).
 
-Departments:
+Basic rules:
+- Do not fiddle with anything connected to mains power.
+- Try to recycle e-waste where you can rather than buying new things (as long as it's battery powered, see above).
 
-* [Resourcing](https://github.com/fo-am/bits-and-atoms-club/wiki/Resourcing) - where to get hold of components.
-* [Artistic references](https://github.com/fo-am/bits-and-atoms-club/wiki/Artistic-references) - inspiration.
-* [Coding tips](https://github.com/fo-am/bits-and-atoms-club/wiki/Coding-tips) - some rough guidelines and good pracice to attempt staying sane.
-* [Sensors](https://github.com/fo-am/bits-and-atoms-club/wiki/Sensors) - that we have used/discussed for projects.
-* [Lighting ideas](https://github.com/fo-am/bits-and-atoms-club/wiki/Lighting-ideas) - some options for bright lighting beyond LEDs.
-* [Analogue electronics](https://github.com/fo-am/bits-and-atoms-club/wiki/Analogue-electronics) - build your own synths and robots without computers or programming.
-* [Pure Data](https://github.com/fo-am/bits-and-atoms-club/wiki/Pure-Data) - an open source visual programming system for plugging together sound applications (mostly).
+Some starting points:
+- [Analogue electronics](https://github.com/fo-am/foam-kernow-nomadic-hacklab/wiki/Analogue-electronics)
+- [Artistic references](https://github.com/fo-am/foam-kernow-nomadic-hacklab/wiki/Artistic-references)
+- [Resourcing](https://github.com/fo-am/foam-kernow-nomadic-hacklab/wiki/Resourcing) (where to get stuff)
+- [Coding tips](https://github.com/fo-am/foam-kernow-nomadic-hacklab/wiki/Coding-tips)
 
-![](https://github.com/fo-am/bits-and-atoms-club/blob/master/circuit_diagram.png)
-
-[https://xkcd.com/730/](https://xkcd.com/730/)
+![](https://github.com/fo-am/bits-and-atoms-club/blob/master/bob-pease_my-favorite-programming-language-is-solder.jpg)
